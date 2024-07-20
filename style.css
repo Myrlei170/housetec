@@ -130,3 +130,36 @@ header {
    width: 30%;
    margin-bottom: 0.8em;
 }
+
+.main_footer-container{
+   font-size: 0.900em;
+   width: 110%;
+}
+
+
+.main_footer_copy{
+   margin: 15px;
+   background-color: #7e17ba;
+   justify-content: flex-end;
+   width: 107%;
+   float: right;
+   text-align: center;
+   
+}
+
+.main_footer_copy p{
+   font-family: 'open_sansligh';
+   font-size: 1em;
+   color: #0f0f0f;
+   height: 7px;
+
+}
+
+.main_footer_copy .m-b-footer{
+   margin-bottom: 0.5em;
+
+}
+
+.main_footer_copy .by{
+   font-size: 0.96em;
+}
